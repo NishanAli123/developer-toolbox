@@ -12,9 +12,9 @@ const discountPrices=prices.map(price=>price*0.5)
 console.log(prices);
 console.log(discountPrices);
 ```
-*
+**
 OUTPUT
 [40, 50, 500, 100, 250]
 
 [20, 25, 250, 50, 125]
-*
+**
