@@ -17,7 +17,7 @@ console.log(discountPrices);
 
 - [20, 25, 250, 50, 125]
 
-## Example-2
+## Example-2 [Real world usecase]
 ```javascript
 const products = [
   { name: "T-Shirt", price: 499, colour: "Blue" },
