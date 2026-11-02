@@ -1,5 +1,10 @@
-//To filter items matching a specific condition in an array
+# filter Function 
 
+filter() is an Array method used to filter items matching a specific condition in an array.
+
+## Example
+
+```javascript
 const products = [
   { name: "T-Shirt", price: 499, colour: "Blue" },
   { name: "Jeans", price: 1299, colour: "Black" },
@@ -13,3 +18,4 @@ const products = [
 const premiumProducts = products.filter(product=>product.price>1000);
 
 console.log(premiumProducts);
+```
