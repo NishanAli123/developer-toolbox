@@ -1,9 +1,13 @@
-<!-- // ->select HTML Element Internals
-// ->Update text and HTML
-// ->Change styles with JS
-// ->Edit element attributes
-// ->Event driven Programming -->
+# Dom-Fundamentals
 
+1. select HTML Element Internals
+2. Update text and HTML
+3. Change styles with JS
+4. Edit element attributes
+5. Event driven Programming 
+
+## Example 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,4 +49,4 @@
   </script>
 </body>
 </html>
-
+```
