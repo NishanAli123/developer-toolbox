@@ -1,7 +1,7 @@
 # Javascript Destructuring
 
-**Destructuring** is a javascript feature allow to **extract values** from  
-**Array** and **object** and store them in separate **variables**
+**Destructuring** is a javascript feature allow to **extract values** from **Array** and **object** and store them in separate **variables**
+
 
 There are two main types:
 
