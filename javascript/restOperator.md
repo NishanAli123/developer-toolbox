@@ -30,4 +30,27 @@ JavaScript
 Python
 ["Java", "C++", "PHP"]
 ```
+3. Rest with object destructuring
+```javascript
+const employee = {
+    name: "Rahul",
+    age: 25,
+    position: "Frontend Developer",
+    salary: 30000
+};
 
+const { name, ...otherDetails } = employee;
+
+console.log(name);
+console.log(otherDetails);
+```
+*Output*
+```
+Rahul
+
+{
+    age: 25,
+    position: "Frontend Developer",
+    salary: 30000
+}
+```
