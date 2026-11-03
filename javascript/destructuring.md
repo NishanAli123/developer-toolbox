@@ -93,11 +93,11 @@ console.log(studentAge); // 24
 
 ## Challenge 1: Array destructuring
 
-*Your tasks:
+Your tasks:
 1. Extract the first element into a variable called firstLanguage.
 2. Extract the third element into a variable called thirdLanguage.
 3. Extract the fifth element into a variable called fifthLanguage.
-*
+
 
 ```javascript
 const programmingLanguages = ["JavaScript", "Python", "Java", "C++", "PHP"];
@@ -109,11 +109,11 @@ console.log(firstLanguage, thirdLanguage, fifthLanguage);
 
 ## Challenge 2: Object destructuring
 
-*Your tasks:
+Your tasks:
 1. Extract name and position.
 2. Store name in a variable called employeeName.
 3. Store position in a variable called jobRole.
-4. Print both variables.*
+4. Print both variables.
 
 ```javascript
 const employee = {
