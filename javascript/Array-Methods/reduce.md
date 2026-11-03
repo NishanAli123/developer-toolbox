@@ -19,6 +19,7 @@ const cart = [
 
 _Answer_
 
+```javascript
 const cart = [
 { item: "Laptop", price: 50000 },
 { item: "Mouse", price: 800 },
@@ -30,10 +31,11 @@ const cart = [
 let totalPrice = cart.reduce((total,item)=>total + item.price,0);
 
 console.log(totalPrice);
+```
 
 ## Example challenge-2
 
-_Question_ :-You have the following array:
+_Question_ :-You have the following array:  
 Task: Use reduce() to calculate the sum of only the even numbers.
 
 ```javascript
