@@ -35,7 +35,7 @@ console.log(totalPrice);
 
 ## Example challenge-2
 
-_Question_ :-You have the following array:
+_Question_ :-You have the following array:  
 Task: Use reduce() to calculate the sum of only the even numbers.
 
 ```javascript
