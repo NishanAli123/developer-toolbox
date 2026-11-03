@@ -19,6 +19,7 @@ const cart = [
 
 _Answer_
 
+```javascript
 const cart = [
 { item: "Laptop", price: 50000 },
 { item: "Mouse", price: 800 },
@@ -30,6 +31,7 @@ const cart = [
 let totalPrice = cart.reduce((total,item)=>total + item.price,0);
 
 console.log(totalPrice);
+```
 
 ## Example challenge-2
 
