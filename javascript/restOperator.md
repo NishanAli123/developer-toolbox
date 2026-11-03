@@ -25,7 +25,7 @@ console.log(second);
 console.log(remaining);
 ```
 *Output* 
-```plaintext
+```
 JavaScript
 Python
 ["Java", "C++", "PHP"]
