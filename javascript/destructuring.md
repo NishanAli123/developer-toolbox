@@ -8,7 +8,7 @@ There are two main types:
 1. Array destructuring
 2. Object destructuring
 
-3. Array destructuring
+## 1. Array destructuring
 
 suppose you have an array:
 
@@ -44,7 +44,7 @@ console.log(third); // Orange
 const [variable1, variable2, variable3] = array;
 ```
 
-2. Object destructuring
+## 2. Object destructuring
 
 Now consider an object:
 
